@@ -1,0 +1,31 @@
+_repo: Little-Pollie--13-Or-a-Bunch-of-Violets_20080
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dyer, Gertrude P.
+    gutenberg_agent_id: '9072'
+    url: http://www.gutenberg.org/2009/agents/9072
+description: ''
+gutenberg_issued: '2006-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20080'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Temperance -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children of alcoholics -- Juvenile fiction'
+- !lcsh 'Poor -- England -- London -- Juvenile fiction'
+- !lcsh 'Kindness -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Child labor -- Juvenile fiction'
+- !lcsh 'London (England) -- Social conditions -- 19th century -- Juvenile fiction'
+title: "Little Pollie\r\nOr a Bunch of Violets"
+url: http://www.gutenberg.org/ebooks/20080
